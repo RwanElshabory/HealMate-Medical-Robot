@@ -1,62 +1,99 @@
 # 🩺 HealMate - Smart Medical Assistant App
 
 ## 📱 About The Project
-HealMate is a smart healthcare mobile application designed to assist users with medical information, health tracking, and AI-powered support features.
 
-The app focuses on providing an intuitive user experience while integrating modern Flutter development practices.
+HealMate is a smart healthcare application designed to assist users with medical information, health tracking, AI-powered support features, and secure healthcare services.
+
+The project integrates artificial intelligence and cybersecurity practices to provide a secure and intelligent medical assistant platform.
 
 ---
 
 ## ✨ Main Features
-- 🔐 User Authentication
-- 🩺 Medical Dashboard
-- 🤖 AI-based Assistance
-- 📅 Smart Scheduler
-- 📊 Health Data Visualization
-- 📱 Clean & Responsive UI
-- 🔔 Notifications & Reminders
+
+- Secure User Authentication
+- Role-Based Authorization (RBAC)
+- OTP Verification
+- AI-powered Medical Assistant
+- Medical Dashboard
+- Smart Scheduler
+- Health Data Visualization
+- Notifications & Reminders
+- Security Testing & Validation
+- Clean & Responsive UI
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Frontend
 - Flutter
 - Dart
-- Firebase
+
+### Backend
+- ASP.NET
+- C#
+- PHP
 - REST APIs
-- State Management (Provider / Bloc)
-- Local Storage
+
+### Database
+- MySQL
+- Firebase
+
+### Security
+- Authentication
+- Authorization (RBAC)
+- OTP Verification
+- Security Testing
+
+### Additional Technologies
+- JavaScript
+- AI Integration
 
 ---
 
-## 🧠 Architecture
-The project follows a scalable structure to support future feature expansion and backend integrations.
+## 🏗️ Architecture
 
----
-
-## 📸 Screenshots
-
-1. Home  
-![Home](screenshots/home.png)
-3. Robot Control  
-![Robot Control](screenshots/robot_control1.png)
-![Robot Control](screenshots/robot_control2.png)
-4. Patient Profile  
-![Patient Profile](screenshots/patient_profile.png)
+- Client-Server Architecture
+- Role-Based Access Control (RBAC)
+- Microservice-based Authentication
+- Secure Session Management
 
 ---
 
 ## 🚀 Getting Started
 
-### Clone repository
-https://github.com/Faridamahmouudd/heal_mate_ui.git
+### Clone Repository
 
-### Install dependencies
-flutter pub get 
+```bash
+git clone https://github.com/RwanElshabory/HealMate-Medical-Robot.git
+```
 
-### Run the app
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the Application
+
+```bash
 flutter run
+```
 
 ---
 
-## 👩‍💻 Developer
-Built using Flutter as a smart healthcare assistant application.
+## 🔐 Security Features
+
+- Secure Authentication
+- Role-Based Access Control (RBAC)
+- OTP Verification
+- Password Security
+- Session Management
+- Security Testing
+- Authentication Validation
+
+---
+
+## 👩‍💻 Project Overview
+
+HealMate is a graduation project that combines healthcare services, artificial intelligence, and cybersecurity to deliver a secure and intelligent medical assistant platform.

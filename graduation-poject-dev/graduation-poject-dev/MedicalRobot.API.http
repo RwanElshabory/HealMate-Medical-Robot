@@ -1,0 +1,6 @@
+@MedicalRobot.API_HostAddress = http://localhost:5234
+
+GET {{MedicalRobot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

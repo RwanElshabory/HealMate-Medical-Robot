@@ -87,6 +87,7 @@ flutter run
 - JWT Token Validation and Authentication
 - Role-Based Access Control (RBAC)
 - OTP Verification
+- Fingerprint Authentication
 - Endpoint Protection using Authorization Policies
 - Input Validation and Injection Prevention
 - SQL Injection and NoSQL Injection Protection
@@ -99,6 +100,8 @@ flutter run
 - Dependency Injection Security Audit
 - Health Monitoring and Availability Checks
 - Security Testing and Validation
+- Advanced Cryptographic Protection
+- HMAC Integrity Validation
 
 ---
 

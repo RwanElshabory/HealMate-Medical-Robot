@@ -80,28 +80,50 @@ flutter pub get
 flutter run
 ```
 
----
 
 ##  Security Features
 
-- JWT Token Validation and Authentication
+### Identity & Access Security
+- JWT Authentication & Token Validation
+- Refresh Token Mechanism
 - Role-Based Access Control (RBAC)
 - OTP Verification
-- Fingerprint Authentication
-- Endpoint Protection using Authorization Policies
-- Input Validation and Injection Prevention
-- SQL Injection and NoSQL Injection Protection
-- Rate Limiting and Anti-Brute Force Mechanisms
-- HTTPS/TLS Enforcement
+- Biometric Authentication (Fingerprint)
+- Protected API Endpoints using Authorization Policies
+
+### Threat Protection
+- SQL Injection Prevention
+- NoSQL Injection Prevention
+- Input Validation & Sanitization
+- Anti-Brute Force Protection
+- Multi-layer Rate Limiting
+- Replay Attack Prevention (Nonce + Timestamp + JTI)
+
+### Cryptography & Secure Communication
+- PBKDF2 Password Hashing
+- RSA-OAEP Dynamic Key Exchange
+- AES-256 Encryption
+- HMAC-SHA256 Message Integrity Verification
+- JWT Signature Validation
+
+### Network Security
+- HTTPS/TLS Communication
 - Secure CORS Configuration
-- HMAC-based Data Integrity Verification
-- Session Management and Token Validation
+- API Key Validation for Robot Communication
+
+### Security Testing & Monitoring
 - White-Box Security Testing (SAST)
+- Authentication & Authorization Testing
+- JWT Validation Testing
+- RBAC Testing
+- Health Monitoring & Availability Checks
 - Dependency Injection Security Audit
-- Health Monitoring and Availability Checks
-- Security Testing and Validation
-- Advanced Cryptographic Protection
-- HMAC Integrity Validation
+
+### Security Architecture
+- Defense-in-Depth Strategy
+- Client-Server Architecture
+- Secure Session Management
+- Multi-layer Security Pipeline
 
 ---
 

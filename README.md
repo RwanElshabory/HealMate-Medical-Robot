@@ -1,6 +1,6 @@
 # 🩺 HealMate - Smart Medical Assistant App
 
-## 📱 About The Project
+##  About The Project
 
 HealMate is a smart healthcare application designed to assist users with medical information, health tracking, AI-powered support features, and secure healthcare services.
 
@@ -8,7 +8,7 @@ The project integrates artificial intelligence and cybersecurity practices to pr
 
 ---
 
-## ✨ Main Features
+##  Main Features
 
 - Secure User Authentication
 - Role-Based Authorization (RBAC)
@@ -23,7 +23,7 @@ The project integrates artificial intelligence and cybersecurity practices to pr
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - Flutter
@@ -51,7 +51,7 @@ The project integrates artificial intelligence and cybersecurity practices to pr
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 - Client-Server Architecture
 - Role-Based Access Control (RBAC)
@@ -60,7 +60,7 @@ The project integrates artificial intelligence and cybersecurity practices to pr
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone Repository
 
@@ -82,7 +82,7 @@ flutter run
 
 ---
 
-## 🔐 Security Features
+##  Security Features
 
 - JWT Token Validation and Authentication
 - Role-Based Access Control (RBAC)
@@ -105,6 +105,6 @@ flutter run
 
 ---
 
-## 👩‍💻 Project Overview
+##  Project Overview
 
 HealMate is a graduation project that combines healthcare services, artificial intelligence, and cybersecurity to deliver a secure and intelligent medical assistant platform.

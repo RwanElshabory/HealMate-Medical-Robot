@@ -84,13 +84,21 @@ flutter run
 
 ## 🔐 Security Features
 
-- Secure Authentication
+- JWT Token Validation and Authentication
 - Role-Based Access Control (RBAC)
 - OTP Verification
-- Password Security
-- Session Management
-- Security Testing
-- Authentication Validation
+- Endpoint Protection using Authorization Policies
+- Input Validation and Injection Prevention
+- SQL Injection and NoSQL Injection Protection
+- Rate Limiting and Anti-Brute Force Mechanisms
+- HTTPS/TLS Enforcement
+- Secure CORS Configuration
+- HMAC-based Data Integrity Verification
+- Session Management and Token Validation
+- White-Box Security Testing (SAST)
+- Dependency Injection Security Audit
+- Health Monitoring and Availability Checks
+- Security Testing and Validation
 
 ---
 
